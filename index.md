@@ -14,3 +14,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!"
 ```
+
+# Step 4: Adding a task list
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
